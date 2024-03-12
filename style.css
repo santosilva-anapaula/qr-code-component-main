@@ -43,19 +43,21 @@ body {
 }
 
 .qr-code-text-container {
-    padding: 16px;
     text-align: center;
+    padding: 26px 26px 16px;
 }
 
 .qr-code-title {
     font-weight: 700;
-    font-size: 24px;
+    font-size: 22px;
     color: hsl(218, 44%, 22%);
 }
 
 .qr-code-text {
+    font-weight: 400;
     font-size: 15px;
     color: hsl(220, 15%, 55%);
+    padding-top: 16px;
 }
 
 .attribution {
